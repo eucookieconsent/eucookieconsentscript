@@ -1,4 +1,4 @@
-eucookieconsentscript
+EU Cookie Consent Script for Normal Websites & Wordpress.
 =====================
 
 EU Cookie Consent &amp; Compliance Script / Plugin
